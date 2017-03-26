@@ -1,4 +1,4 @@
-# timainfo<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -82,17 +82,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     </div>
 
     <!-- Right Column -->
-    <div class="w3-twothird">
+    <div> class="w3-twothird">
     
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-flag fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <h2> class="w3-text-grey w3-padding-16"><i class="fa fa-flag fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Hatyairatprachasun School</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2008-2014<span class="w3-tag w3-teal w3-round"></h6>
+          <h5> class="w3-opacity"><b>Hatyairatprachasun School</b></h5>
+      <h6>class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2008-2014<span class="w3-tag w3-teal w3-round"><h6>
           <p> lower secondary school- Mini English Program<br>
 	       upper secondary school- Science-Math Program.</p>
           <hr>
-        </div>
+	  <div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Prince of Songkla University</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - <span class="w3-tag w3-pale-yellow w3-round">Current</span></h6>
@@ -144,6 +144,5 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   
 </footer>
 
-
-</body>
-</html>
+<body> 
+<html>
